@@ -1,4 +1,4 @@
-### Welcome to the node static api
+# Welcome to the node static api
 
 ## How to use:
 1. Clone the project.
